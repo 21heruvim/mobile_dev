@@ -12,7 +12,7 @@ npm install -g expo-cli
 ```
 4. Клонируйте репозиторий и перейдите в каталог проекта:
 ```bash
-git clone https://github.com/21heruvim/mobile_dev
+git clone https://github.com/21heruvim/mobile_dev.git
 ```
 5. Установите зависимости:
 ```bash
